@@ -13,12 +13,8 @@
 
 <hr>
 
-- 🔥 Proficient in **Python**, **C#**, **Java**, **JavaScript**, **MongoDB**, **Scala**, **NuxtJS**, **HTML** & **CSS**.
-- 🔭 I’m currently working on small project with help of Docker.
-- 🌱 I’m currently learning **Docker** for my little project.
 - 💬 Ask me about anything, if you want to.
-- 📫 How to reach me: **martin@leux.dk**.
-- ☕ Want to buy me a <a href="https://www.buymeacoffee.com/martinersej" target="_blank">coffee</a>?
+- 📫 How to reach me: **martinpugdal@gmail.com**.
 <hr>
 
 <div align="center">
