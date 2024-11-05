@@ -8,8 +8,8 @@
 
 <hr>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=martinersej&label=Profile%20views&color=0e75b6&style=flat" alt="martinersej"/> 
-  <img src="https://komarev.com/ghpvc/?username=martinpugdal&label=Profile%20views&color=0e75b6&style=flat" alt="martinpugdal"/> 
+<!--   <img src="https://komarev.com/ghpvc/?username=martinersej&label=Profile%20views&color=0e75b6&style=flat" alt="martinersej"/>  -->
+  <img src="https://komarev.com/ghpvc/?username=martinpugdal&label=Visninger&color=blueviolet&style=plastic" alt="martinpugdal"/> 
 </div>
 
 <hr>
