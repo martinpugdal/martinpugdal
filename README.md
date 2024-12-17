@@ -8,8 +8,9 @@
 
 <hr>
 <div align="center">
-<!--   <img src="https://komarev.com/ghpvc/?username=martinersej&label=Profile%20views&color=0e75b6&style=flat" alt="martinersej"/>  -->
-  <img src="https://komarev.com/ghpvc/?username=martinpugdal&label=Visninger&color=blueviolet&style=plastic" alt="martinpugdal"/> 
+  <img src="https://komarev.com/ghpvc/?username=martinpugdal&label=Visninger&color=blueviolet&style=plastic" alt="martinpugdal"/>
+  <br>
+  <img src="https://wakatime.com/badge/user/a4e7000e-176a-4488-a320-9232f68e2548.svg" alt="martinpugdal_hours" >
 </div>
 
 <hr>
